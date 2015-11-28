@@ -22,7 +22,7 @@ CONTAM=$3
 
 
 # the scripts are in:
-SCRIPTS=bin/
+SCRIPTS=src/
 
 echo "Running filtering on $LFILE and $RFILE using contaminations \
 listed in the BLAST library $CONTAM"
